@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Guilherme</h1>
 
-<!--
-**anthonyMucelini/anthonyMucelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudante de Inteligência Artificial <br>
+💻 Foco em Engenharia de Software e Dados <br>
+🚀 Buscando estágio na área de tecnologia
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode" />
+</p>
+
+- Python
+- SQL
+- Power BI
+- Git e GitHub
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+- 📊 **Dashboard de Vendas (Power BI)**  
+  Análise de dados com visualizações interativas
+
+- 🤖 **Classificação de Imagens (Python)**  
+  Modelo de IA para reconhecimento de padrões
+
+- 🐍 **Automação de Planilhas**  
+  Scripts para otimização de tarefas repetitivas
+
+---
+
+## 📚 Atualmente estudando
+
+- Análise de dados com Python (Pandas, Matplotlib)
+- Power BI (dashboards profissionais)
+- Fundamentos de Machine Learning
+
+---
+
+## 📫 Contato
+
+- 📧 Email: seuemail@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/seu-link  
+
+---
+
+## ⚡ Sobre mim
+
+- Gosto de resolver problemas com tecnologia  
+- Focado em aprender na prática  
+- Sempre buscando evoluir na área de dados e IA  
+
+---
+
+⭐ Se gostou de algum projeto, deixe uma estrela!
