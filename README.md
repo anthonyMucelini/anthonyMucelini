@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Guilherme</h1>
+<h1 align="center">👋 Olá, eu sou Anthony Guilherme Mucelini</h1>
 
 <p align="center">
 🎓 Estudante de Inteligência Artificial <br>
@@ -34,12 +34,7 @@
 
 - 📊 **Dashboard de Vendas (Power BI)**  
   Análise de dados com visualizações interativas
-
-- 🤖 **Classificação de Imagens (Python)**  
-  Modelo de IA para reconhecimento de padrões
-
-- 🐍 **Automação de Planilhas**  
-  Scripts para otimização de tarefas repetitivas
+  
 
 ---
 
@@ -53,8 +48,8 @@
 
 ## 📫 Contato
 
-- 📧 Email: seuemail@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/seu-link  
+- 📧 Email: anthonyguilhermemuceline@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/anthonymucelini/ 
 
 ---
 
