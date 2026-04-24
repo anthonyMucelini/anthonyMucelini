@@ -11,15 +11,11 @@
 
 ### 🎓 Sobre mim
 
-```python
-anthony = {
-    "formacao":  "Inteligencia Artificial",
-    "foco":      ["Eng. Software", "Dados", "Automacao"],
-    "objetivo":  "Estagio na area de tecnologia",
-    "estudando": ["Pandas", "Matplotlib", "Power BI", "ML"],
-    "interesse": "Resolver problemas reais com tecnologia 🚀",
-}
-```
+🎓 Estudante de **Inteligência Artificial**
+💻 Foco em **Engenharia de Software**, **Dados** e **Automação**
+🎯 Buscando **estágio** na área de tecnologia
+📖 Estudando **Pandas**, **Matplotlib**, **Power BI** e **Machine Learning**
+⚡ Apaixonado por resolver problemas reais com tecnologia
 
 ---
 
@@ -35,7 +31,7 @@ anthony = {
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anthonyMucelini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyMucelini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" />
+  
 </p>
 
 <p align="center">
