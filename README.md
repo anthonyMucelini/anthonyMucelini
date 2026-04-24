@@ -42,8 +42,14 @@
 
 ### 📂 Projeto em Destaque
 
-<a href="https://github.com/anthonyMucelini/Sistema-de-Satisfacao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyMucelini&repo=Sistema-de-Satisfacao&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
+<p align="center">
+  <a href="https://github.com/anthonyMucelini/Sistema-de-Satisfacao">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyMucelini&repo=Sistema-de-Satisfacao&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/anthonyMucelini/LeucemiaPR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyMucelini&repo=LeucemiaPR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9" />
+  </a>
+</p>
 </a>
 
 ---
