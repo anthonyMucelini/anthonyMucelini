@@ -13,11 +13,11 @@
 
 ```python
 anthony = {
-    "formação":   "Inteligência Artificial",
-    "foco":       ["Engenharia de Software", "Dados", "Automação"],
-    "objetivo":   "Estágio na área de tecnologia",
-    "estudando":  ["Pandas", "Matplotlib", "Power BI", "Machine Learning"],
-    "interesse":  "Resolver problemas reais com tecnologia 🚀"
+    "formacao":  "Inteligencia Artificial",
+    "foco":      ["Eng. Software", "Dados", "Automacao"],
+    "objetivo":  "Estagio na area de tecnologia",
+    "estudando": ["Pandas", "Matplotlib", "Power BI", "ML"],
+    "interesse": "Resolver problemas reais com tecnologia 🚀",
 }
 ```
 
