@@ -52,6 +52,10 @@
 
 ---
 
+## 🐍 Minhas contribuições
+
+![Snake animation](https://github.com/anthonyMucelini/anthonyMucelini/blob/output/github-contribution-grid-snake.svg)
+
 ## ⚡ Sobre mim
 
 - Gosto de resolver problemas com tecnologia  
