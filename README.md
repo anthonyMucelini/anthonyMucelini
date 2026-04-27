@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=anthonyMucelini&color=a855f7&style=flat-square&label=Total de Acessos" />
+<img src="https://komarev.com/ghpvc/?username=anthonyMucelini&color=a855f7&style=flat-square&label=Visitantes" />
 
 
 ### 🎓 Sobre mim
