@@ -5,7 +5,9 @@
 
 <br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=anthonyMucelini.anthonyMucelini&left_color=0d1117&right_color=a855f7&cache=86400" />
+<img src="https://komarev.com/ghpvc/?username=anthonyMucelini&color=a855f7&style=flat-square&label=Visitantes" />
+
+
 ### 🎓 Sobre mim
 
 🎓 Estudante de **Inteligência Artificial**
