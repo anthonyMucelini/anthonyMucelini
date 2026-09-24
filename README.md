@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- ====================================================== -->
-<!--                    HEADER / TYPING                     -->
-<!-- ====================================================== -->
+# 👋 Olá, eu sou Anthony Mucelini
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Anthony+Mucelini+%F0%9F%91%8B;Estudante+de+IA+%26+Engenharia;Dados+%E2%80%A2+Automa%C3%A7%C3%A3o+%E2%80%A2+Software)](https://git.io/typing-svg)
+### 🎓 Estudante de Inteligência Artificial & Engenharia
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=anthonyMucelini&color=a855f7&style=flat-square&label=Total-Acessos">
+**Dados • Automação • Engenharia de Software • Machine Learning**
 
 </div>
 
@@ -20,7 +16,7 @@
 
 💻 Foco em **Engenharia de Software, Dados e Automação**
 
-🎯 Em busca de uma oportunidade de **estágio na área de tecnologia**
+🎯 Buscando uma oportunidade de **estágio na área de tecnologia**
 
 📚 Atualmente estudando **Pandas, Matplotlib, Power BI e Machine Learning**
 
@@ -30,118 +26,124 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="center">
+- 🐍 **Python** — Linguagem principal para estudos em dados, automação e IA.
+- 🗄️ **MySQL** — Banco de dados e gerenciamento de informações.
+- 🔀 **Git** — Controle de versão e gerenciamento de código.
+- 🐙 **GitHub** — Hospedagem e colaboração em projetos.
+- 💻 **Visual Studio Code** — Ambiente de desenvolvimento.
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
+### 📚 Tecnologias que estou estudando
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-</div>
+- **Pandas** — Análise e manipulação de dados.
+- **Matplotlib** — Visualização e criação de gráficos.
+- **Power BI** — Análise de dados e criação de dashboards.
+- **Machine Learning** — Aprendizado de máquina e desenvolvimento de modelos.
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+Quer conhecer minhas atividades e contribuições no GitHub?
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonyMucelini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&count_private=true" />
+🔗 **[Acessar meu perfil no GitHub](https://github.com/anthonyMucelini)**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyMucelini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
+🔗 **[Ver todas as minhas contribuições](https://github.com/anthonyMucelini?tab=overview)**
 
-</div>
+🔗 **[Ver meus repositórios](https://github.com/anthonyMucelini?tab=repositories)**
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=anthonyMucelini&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
-
-</div>
+🔗 **[Ver minhas contribuições por período](https://github.com/anthonyMucelini?tab=overview)**
 
 ---
 
 ## 📂 Projetos em Destaque
 
-<div align="center">
+### 📌 Sistema de Satisfação
 
-<a href="https://github.com/anthonyMucelini/Sistema-de-Satisfacao">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyMucelini&repo=Sistema-de-Satisfacao&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" />
-</a>
+Sistema desenvolvido para trabalhar com **avaliação de satisfação e coleta de informações**, aplicando conceitos de desenvolvimento de software e análise de dados.
 
-<a href="https://github.com/anthonyMucelini/LeucemiaPR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anthonyMucelini&repo=LeucemiaPR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" />
-</a>
+🔗 **[Acessar o projeto — Sistema de Satisfação](https://github.com/anthonyMucelini/Sistema-de-Satisfacao)**
 
-</div>
+---
+
+### 🧬 LeucemiaPR
+
+Projeto relacionado à aplicação de tecnologia e análise de dados no contexto de **leucemia**, desenvolvido como parte dos meus estudos e projetos acadêmicos.
+
+🔗 **[Acessar o projeto — LeucemiaPR](https://github.com/anthonyMucelini/LeucemiaPR)**
 
 ---
 
 ## 📚 Atualmente estudando
 
-<div align="center">
+### 🐼 Pandas
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+Biblioteca Python utilizada para **manipulação, tratamento e análise de dados**.
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+🔗 **[Documentação oficial do Pandas](https://pandas.pydata.org/docs/)**
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+---
 
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+### 📈 Matplotlib
 
-</div>
+Biblioteca utilizada para **visualização de dados e criação de gráficos em Python**.
+
+🔗 **[Documentação oficial do Matplotlib](https://matplotlib.org/stable/)**
+
+---
+
+### 📊 Power BI
+
+Ferramenta utilizada para **análise de dados, criação de dashboards e visualização de informações**.
+
+🔗 **[Conheça o Microsoft Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi)**
+
+---
+
+### 🤖 Machine Learning
+
+Área da Inteligência Artificial voltada para o desenvolvimento de sistemas capazes de **aprender padrões a partir de dados**.
+
+🔗 **[Introdução ao Machine Learning — Google](https://developers.google.com/machine-learning/intro)**
 
 ---
 
 ## 🌐 Contato
 
-<div align="center">
+### 💼 LinkedIn
 
-<a href="https://www.linkedin.com/in/anthonymucelini/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+Meu perfil profissional, onde compartilho minha trajetória acadêmica e profissional e posso ser contatado para oportunidades.
 
-<a href="mailto:anthonyguilhermemuceline@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+🔗 **[Acessar meu LinkedIn](https://www.linkedin.com/in/anthonymucelini/)**
 
 ---
 
-## 🐍 Minhas Contribuições
+### 📧 E-mail
 
-<div align="center">
+Para contato profissional, oportunidades de estágio, projetos ou assuntos relacionados à tecnologia:
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/anthonyMucelini/anthonyMucelini/output/github-contribution-grid-snake-dark.svg"
-  />
+📩 **anthonyguilhermemuceline@email.com**
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/anthonyMucelini/anthonyMucelini/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/anthonyMucelini/anthonyMucelini/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
+🔗 **[Enviar um e-mail](mailto:anthonyguilhermemuceline@email.com)**
 
 ---
 
+## 🐙 GitHub
+
+Meu GitHub reúne meus projetos, estudos e experiências práticas com programação, dados, automação e Inteligência Artificial.
+
+🔗 **[Visitar meu GitHub](https://github.com/anthonyMucelini)**
+
+---
+
+## ⭐ Obrigado pela visita!
+
+Estou sempre buscando aprender, desenvolver novos projetos e transformar conhecimento em soluções práticas.
+
+**Se algum projeto foi útil para você, considere deixar uma ⭐ no repositório!**
+
 <div align="center">
 
-### ⭐ Obrigado pela visita!
-
-<i>Se algum dos meus projetos foi útil para você, considere deixar uma estrela ⭐</i>
+**Anthony Mucelini**  
+🎓 Inteligência Artificial • 💻 Engenharia de Software • 📊 Dados
 
 </div>
